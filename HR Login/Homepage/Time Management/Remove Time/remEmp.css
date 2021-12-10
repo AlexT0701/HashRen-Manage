@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.empHeader, H1 {
+	text-align: center;
+}
+
+form {
+	text-align: center;
+}
