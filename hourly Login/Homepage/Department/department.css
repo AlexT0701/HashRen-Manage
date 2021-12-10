@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.header1 {
+	text-align: center;
+	padding: 10px;
+}
+
+
+/*Lines 3-40 are pure table design*/
+.testTable {
+	border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 0.9em;
+    font-family: sans-serif;
+	width: auto;
+    min-width: 500px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.testTable thead tr {
+    background-color: red;
+    color: #ffffff;
+    text-align: center;
+}
+
+.testTable th,
+.testTable td {
+    padding: 12px 15px;
+	text-align: center;
+}
+
+.testTable tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.testTable tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.testTable tbody tr:last-of-type {
+    border-bottom: 2px solid red;
+}
+
+/*Button Design*/
+.buttonForm {
+	text-align: center;
+}
+
+form {
+	padding: 2px;
+	display: inline;
+}
+
+input {
+	color: black;
+	padding: 10px;
+}
