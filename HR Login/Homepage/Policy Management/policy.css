@@ -1,0 +1,22 @@
+body {
+	background: #fff;
+    color: #000;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 50;
+	display: block;
+}
+
+.policies {
+	background: #fff;
+    color: #000;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    margin: 50;
+	display: block;
+	padding: 25px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
