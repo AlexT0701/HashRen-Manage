@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.empHeader, H1 {
+	text-align: center;
+}
+
+#submit-form {
+	text-align: center;
+}
+
+.formDesign {
+	text-align: left;
+}
+
+#id-form {
+	text-align: center;
+	border: 1px solid black;
+	padding: 15px;
+	width: auto;
+}
